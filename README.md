@@ -5,9 +5,9 @@
 AtliQ Hardware, a rapidly growing company, has embraced data analytics to outpace competitors and make informed decisions. This project, developed using the PowerBI toolset, aims to provide comprehensive insights into finance, sales, marketing, and supply chain operations.
 
 ### Course and Resources
-This project was built following the Codebasics PowerBI Course, which can be accessed [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project).
+This project was built following the Codebasics PowerBI Course.
 
-[**View the Live Report**](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[**View the Live Report**](https://app.powerbi.com/view?r=eyJrIjoiZTA1MTBjMWYtZWVhYS00MDQyLWFhNzgtOTJkN2QwZTAwZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection1f58869c7d320bb1b96c)
 
 ## Technologies Used
 
