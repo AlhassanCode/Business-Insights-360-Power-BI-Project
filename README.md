@@ -7,7 +7,7 @@ AtliQ Hardware, a rapidly growing company, has embraced data analytics to outpac
 ### Course and Resources
 This project was built following the Codebasics PowerBI Course.
 
-[**View the Live Report**](https://app.powerbi.com/view?r=eyJrIjoiZTA1MTBjMWYtZWVhYS00MDQyLWFhNzgtOTJkN2QwZTAwZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection1f58869c7d320bb1b96c)
+[**View Live Report Here**](https://app.powerbi.com/view?r=eyJrIjoiZTA1MTBjMWYtZWVhYS00MDQyLWFhNzgtOTJkN2QwZTAwZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection1f58869c7d320bb1b96c)
 
 ## Technologies Used
 
