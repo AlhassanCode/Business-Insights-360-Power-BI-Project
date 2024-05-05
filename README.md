@@ -54,7 +54,7 @@ The dashboard was designed based on stakeholder mock-ups, focusing on usability 
 
 - [Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
 - [Info Page.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
-- [Finance View.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+- [Finance View.gif](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Finance%20View.mp4)
 - [Sales View.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
 - [Marketing View.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
 - [Supply Chain View.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
