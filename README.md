@@ -60,7 +60,7 @@ The dashboard was designed based on stakeholder mock-ups, focusing on usability 
 - [Executive View](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Executive%20View.png)
 
 
-Full report file available [here](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix).
+[**View Live Report Here**](https://app.powerbi.com/view?r=eyJrIjoiZTA1MTBjMWYtZWVhYS00MDQyLWFhNzgtOTJkN2QwZTAwZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection1f58869c7d320bb1b96c)
 
 ## Project Outcome
 
