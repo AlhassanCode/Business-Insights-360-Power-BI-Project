@@ -37,9 +37,9 @@ The provided data sets include customer details, market analytics, product infor
 
 ### Data Models
 
-We employed the Snowflake data modeling technique to ensure optimal performance of the analytics report. For best practices in data modeling, refer to this [blog post](https://addendanalytics.com/blog/data-modelling-best-practices/).
+We employed the Snowflake data modeling technique to ensure optimal performance of the analytics report.
 
-![Data Model](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png)
+![Data Model](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Data%20Modelling.png)
 
 ## Dashboard Design
 
@@ -52,14 +52,13 @@ The dashboard was designed based on stakeholder mock-ups, focusing on usability 
 
 ## Visualizations
 
-- [Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
-- [Info Page.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
-- [Finance View.gif](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Finance%20View.mp4)
-- [Sales View.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
-- [Marketing View.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
-- [Supply Chain View.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
-- [Executive View.gif](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/Business%20Inside%20360%20resources/Executive%20View.png)
-- [Products View.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+- ![Home View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Home%20View.png))
+- ![Financial View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Finance%20View.png))
+- ![Sales View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Sales%20View.png))
+- ![Marketing View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Marketing%20View.png))
+- ![Supply Chain View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Supply%20Chain%20View.png))
+- ![Executive View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Executive%20View.png))
+
 
 Full report file available [here](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix).
 
