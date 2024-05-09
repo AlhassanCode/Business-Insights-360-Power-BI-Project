@@ -52,12 +52,12 @@ The dashboard was designed based on stakeholder mock-ups, focusing on usability 
 
 ## Visualizations
 
-- [Home View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Home%20View.png))
-- [Financial View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Finance%20View.png))
-- [Sales View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Sales%20View.png))
-- [Marketing View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Marketing%20View.png))
-- [Supply Chain View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Supply%20Chain%20View.png))
-- [Executive View]([URL_to_image "Optional title"](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Executive%20View.png))
+- [Home View](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Home%20View.png)
+- [Financial View](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Finance%20View.png)
+- [Sales View](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Sales%20View.png)
+- [Marketing View](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Marketing%20View.png)
+- [Supply Chain View](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Supply%20Chain%20View.png)
+- [Executive View](https://github.com/AlhassanCode/Business-Insights-360-Power-BI-Project/blob/main/resources/Executive%20View.png)
 
 
 Full report file available [here](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix).
